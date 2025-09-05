@@ -1,8 +1,10 @@
-streamlit
-fastapi
-uvicorn
-Pillow
-gunicorn
-python-multipart
-numpy
+streamlit==1.30.0
+ultralytics==8.0.126
+torch==2.2.2+cpu
 opencv-python-headless==4.8.0.74
+numpy==1.26.4
+Pillow==10.0.1
+fastapi==0.99.0
+uvicorn==0.24.0
+python-multipart==0.0.6
+gunicorn==21.2.0
