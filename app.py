@@ -5,6 +5,10 @@ from ultralytics import YOLO
 from src.utilities.get_prediction import get_prediction
 from src.utilities.read_image import readImage
 
+import cv2, sys
+print("cv2 file:", cv2.__file__)
+print("python:", sys.version)
+
 # Set page config
 st.set_page_config(
     page_title="Cattle & Buffalo Breed Classification",
