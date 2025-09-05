@@ -1,6 +1,9 @@
---no-cache-dir
-
-streamlit==1.30.0
-opencv-python-headless==4.10.0.84
-numpy==1.26.4
-Pillow==10.2.0
+fastapi
+uvicorn
+ultralytics
+Pillow
+gunicorn
+python-multipart
+numpy
+opencv-python
+streamlit
