@@ -6,4 +6,4 @@ Pillow
 gunicorn
 python-multipart
 numpy
-opencv-python
+opencv-python-headless==4.8.0.74
