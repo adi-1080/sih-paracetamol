@@ -1,7 +1,6 @@
 streamlit
 fastapi
 uvicorn
-ultralytics
 Pillow
 gunicorn
 python-multipart
