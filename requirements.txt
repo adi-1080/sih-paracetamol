@@ -5,5 +5,5 @@ Pillow
 gunicorn
 python-multipart
 numpy
-opencv-python-headless
+opencv-python
 streamlit
