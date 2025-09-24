@@ -12,7 +12,7 @@ app.include_router(mobile_model.router)
 
 def main():
     print("Hello from ml-backend!")
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)  
+    uvicorn.run("main:app", host="0.0.0.0", port=8000)  
 
 if __name__ == "__main__":
     main()
